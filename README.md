@@ -5,8 +5,6 @@ A Deep Reinforcement Learning-based Stock Market Simulator using a PPO (Proximal
 
 ## 📸 Screenshots
 
-> _Add your screenshots below_
-
 ![App Screenshot 1](image.png)
 ![App Screenshot 2](3be9b15d01ac7c0e2f75d0713801c85cbcca9364337afc81f9d5bac7.png)
 
