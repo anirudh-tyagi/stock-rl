@@ -86,13 +86,6 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📬 Contact
-
-Created with 💙 by Anirudh Tyagi  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/itsanirudhtyagi) or open an issue!
-
----
-
 ## 📜 License
 
 [MIT License](LICENSE)
