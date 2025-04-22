@@ -1,16 +1,16 @@
 
-# 🧠 Stock Market Simulator (PPO Agent)
+#  Stock Market Simulator (PPO Agent)
 
 A Deep Reinforcement Learning-based Stock Market Simulator using a PPO (Proximal Policy Optimization) agent to simulate trading decisions on real stock market data.
 
-## 📸 Screenshots
+##  Screenshots
 
 ![App Screenshot 1](image.png)
 ![App Screenshot 2](3be9b15d01ac7c0e2f75d0713801c85cbcca9364337afc81f9d5bac7.png)
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload stock CSV data
 - Preprocess and clean data
@@ -22,7 +22,7 @@ A Deep Reinforcement Learning-based Stock Market Simulator using a PPO (Proximal
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 stock-rl/
@@ -52,7 +52,7 @@ The PPO model was trained using [Stable-Baselines3](https://github.com/DLR-RM/st
 
 ---
 
-## 🧪 Run Locally
+##  Run Locally
 
 ### ⚙️ Setup Environment
 
@@ -65,7 +65,7 @@ source stocks-rl/bin/activate
 pip install -r requirements.txt
 ```
 
-### 🏃‍♂️ Run Streamlit App
+###  Run Streamlit App
 
 ```bash
 streamlit run streamlit_app.py
@@ -75,13 +75,13 @@ streamlit run streamlit_app.py
 
 ---
 
-## 💼 Technologies Used
+##  Tech Used
 
-- Python 🐍
-- Streamlit 📺
-- Stable-Baselines3 🧠
-- Gymnasium 🎮
-- Matplotlib & Seaborn 📊
+- Python 
+- Streamlit 
+- Stable-Baselines3 
+- Gymnasium 
+- Matplotlib & Seaborn 
 - Pandas, NumPy 🔢
 
 ---
